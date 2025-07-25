@@ -8,4 +8,5 @@ Two Enhancement models were explored:
   
 The detetction model was built using the pretrained ConvNeXt architecture, and can be run using the Classify.py file.
 
-All the training scripts were run on Kaggle and are hence coded specifically to Kaggle. The scripts to run the models were created as a part of our backend, and can be run using the following command (UNet as reference) : python Run_UNet.py --input path/to/video.mp4 --output output.mp4
+All the training scripts were run on Kaggle and are hence coded specifically to Kaggle. The scripts to run the models were created as a part of our backend, and can be run using the following command (UNet as reference) : 
+python Run_UNet.py --input path/to/video.mp4 --output output.mp4
